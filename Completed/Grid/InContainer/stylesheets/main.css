@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+main{ 
+    font-family: Arial, Helvetica, sans-serif;   
+    background-color:#ddd;
+    max-width: 1000px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    padding: .5rem;
+    border: 1px solid black;
+}
+.item01{
+    background-color: lightblue;
+}
+.item02{
+    background-color: lightskyblue;
+}
+.item03{
+    background-color: lightyellow;
+}
+.item04{
+    background-color: lightpink;
+}
+.item05{
+    background-color: lightsalmon;
+}
+.item06{
+    background-color: lightseagreen;
+}
+.item07{
+    background-color: lightsteelblue;
+}
+.item08{
+    background-color: lightslategrey;
+}
+.item09{
+    background-color: lightgreen;
+}
+.item10{
+    background-color: yellowgreen;
+}

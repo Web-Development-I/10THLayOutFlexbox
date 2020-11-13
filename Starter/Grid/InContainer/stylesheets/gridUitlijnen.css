@@ -1,0 +1,6 @@
+@import url(main.css);
+main {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-gap: 10px;
+}

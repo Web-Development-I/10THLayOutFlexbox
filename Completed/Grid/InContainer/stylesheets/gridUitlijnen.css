@@ -1,0 +1,8 @@
+@import url(main.css);
+main {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-gap: 10px;
+  justify-content: center; /*center/space-between/space-around/space-evenly */
+   align-content: center; /*center/space-between/space-around */
+}
